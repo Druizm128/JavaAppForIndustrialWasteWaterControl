@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysis>
+	<industryName>SOCIAL SECURITY HOSPITAL</industryName>
+	<sampleNumber>EL23</sampleNumber>
+	<laboratoryName>LAQMISA</laboratoryName>
+	<sampleDate>11092015</sampleDate>
+	<results>
+		<arsenicResult>0.0872</arsenicResult>
+		<cadmiumResult>0.1299</cadmiumResult>
+		<chromiumResult>0.5823</chromiumResult>
+		<copperResult>2.4678</copperResult>
+		<cyanidesResult>1.7493</cyanidesResult>
+		<leadResult>3.2456</leadResult>
+		<mercuryResult>0.0001</mercuryResult>
+		<nickelResult>2.4931</nickelResult>
+		<zincResult>18.0141</zincResult>
+	</results>
+</analysis>

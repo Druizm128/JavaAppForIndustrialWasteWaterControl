@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysis>
+	<industryName>GREEN HILLS SCHOOL</industryName>
+	<sampleNumber>EL94</sampleNumber>
+	<laboratoryName>ENVIRONMENTAL LAB</laboratoryName>
+	<sampleDate>11042015</sampleDate>
+	<results>
+		<arsenicResult>0.1674</arsenicResult>
+		<cadmiumResult>0.1345</cadmiumResult>
+		<chromiumResult>0.9999</chromiumResult>
+		<copperResult>3.4567</copperResult>
+		<cyanidesResult>1.5670</cyanidesResult>
+		<leadResult>3.6957</leadResult>
+		<mercuryResult>0.0023</mercuryResult>
+		<nickelResult>3.4931</nickelResult>
+		<zincResult>16.4065</zincResult>
+	</results>
+</analysis>

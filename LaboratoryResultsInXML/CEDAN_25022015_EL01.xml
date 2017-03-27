@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysis>
+	<industryName>CEDAN</industryName>
+	<sampleNumber>EL01</sampleNumber>
+	<laboratoryName>ITESM</laboratoryName>
+	<sampleDate>25022015</sampleDate>
+	<results>
+		<arsenicResult>0.22115584840192348</arsenicResult>
+		<cadmiumResult>0.3884476428838498</cadmiumResult>
+		<chromiumResult>0.6520888152373676</chromiumResult>
+		<copperResult>2.456703172698119</copperResult>
+		<cyanidesResult>2.520650882204698</cyanidesResult>
+		<leadResult>5.695761531464946</leadResult>
+		<mercuryResult>0.6852231914761778</mercuryResult>
+		<nickelResult>5.646362323003256</nickelResult>
+		<zincResult>21.406549707108248</zincResult>
+	</results>
+</analysis>

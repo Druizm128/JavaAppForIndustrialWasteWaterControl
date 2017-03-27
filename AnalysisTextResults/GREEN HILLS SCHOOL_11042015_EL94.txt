@@ -1,0 +1,20 @@
+National Commission of Water
+Waste Water Discharges Compliance Results
+
+  Industry name: 	GREEN HILLS SCHOOL
+  Sample number: 	           EL94
+Laboratory name: 	ENVIRONMENTAL LAB
+    Sample date: 	       11042015
+
+ Pollutant	Concentration Compliance
+   Arsenic	0.167400	  complies
+   Cadmium	0.134500	  complies
+  Cyanides	1.567000	  complies
+    Copper	3.456700	  complies
+  Chromium	0.999900	  complies
+   Mercury	0.002300	  complies
+    Nickel	3.493100	  complies
+      Lead	3.695700	  complies
+      Zinc	16.406500	  complies
+
+Overall compliance result: Satisfactory
